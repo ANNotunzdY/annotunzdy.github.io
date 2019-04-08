@@ -6,7 +6,7 @@ layout: home
 ---
 # ANNotunzdY's Profile
 - フリーランスエンジニア 兼 合同会社きぼうソフト 代表
-- iOSアプリ等の受託開発を行っています。
+- iOSアプリ等の受託開発を行っています
 
 # 略歴
 - 1991年生まれ
@@ -20,13 +20,16 @@ layout: home
 
 ## 言語
 - C
+- C++
+- C#
 - Objective-C
 - Swift
-- JavaScript
 - Java
+- Kotlin
 - Ruby
 - Perl
 - PHP
+- JavaScript
 
 ## iOS
 - UIKit
@@ -39,10 +42,10 @@ layout: home
 ## Web
 - Ruby on Rails
 
-## 過去実績例
+# 過去実績例
 - QRコードリーダー関連開発業務 (iOS / Objective-C)
 - 電子書籍ビューア関連開発業務 (iOS / Android / Objective-C / Java / C / JavaScript )
-- ペイント系ソフト関連開発業務 (iOS / Objective-C / Swift)
+- ペイント系ソフト関連開発業務 (iOS / Objective-C / Objective-C++ / C++ / Swift)
 - ソーシャルゲーム関連開発業務 (Unity / C#)
 - 決済系アプリ関連開発開発業務 (iOS / Swift)
 - チャット系アプリ関連開発開発 (iOS / Objective-C / Swift)
@@ -54,3 +57,14 @@ layout: home
 - アプリ用APIサーバー開発業務 (Ruby on Rails)
 - Mac系開発業務 (Objective-C)
 - Windows系開発業務 (.NET / C#)
+
+# 取得資格
+- 基本情報技術者
+- 応用情報技術者
+- 情報処理安全確保支援士（第018388号）
+- 日商簿記３級
+
+# 連絡先
+- Mail: dev@annotunzdy.info
+- Twitter: @ANNotunzdY2
+- Mastodon: @annotunzdy@mstdn.jp
