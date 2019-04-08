@@ -4,7 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-# ANNotunzdY's Profile
 - フリーランスエンジニア 兼 合同会社きぼうソフト 代表
 - iOSアプリ等の受託開発を行っています
 
