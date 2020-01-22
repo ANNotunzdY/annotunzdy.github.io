@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-- フリーランスエンジニア 兼 合同会社きぼうソフト 代表
-- iOSアプリ等の受託開発を行っています
+- フリーランスエンジニア
+- iOSアプリ・Webシステム等の受託開発を行っています
 
 # 略歴
 - 1991年生まれ
@@ -13,7 +13,9 @@ layout: home
 - 2009年より、iPhoneアプリケーション開発業務に携わる
 - 2011年、都立新宿山吹高校卒業
 - 2012年、フリーランスとして独立
-- 2015年、合同会社きぼうソフトを設立
+- 2015年、合同会社きぼうソフト設立、同CEOに就任
+- 2018年、PHOTON合同会社 CTO就任、同年解散
+- 2019年、合同会社きぼうソフト解散
 
 # 主な対応可能技術
 
@@ -29,6 +31,7 @@ layout: home
 - Perl
 - PHP
 - JavaScript
+- TypeScript
 
 ## iOS
 - UIKit
@@ -40,6 +43,7 @@ layout: home
 
 ## Web
 - Ruby on Rails
+- NestJS
 
 # 過去実績例
 - QRコードリーダー関連開発業務 (iOS / Objective-C)
@@ -56,6 +60,7 @@ layout: home
 - アプリ用APIサーバー開発業務 (Ruby on Rails)
 - Mac系開発業務 (Objective-C)
 - Windows系開発業務 (.NET / C#)
+- 基幹業務系システムバックエンド開発（NestJS / TypeScript）
 
 # 取得資格
 - 基本情報技術者
