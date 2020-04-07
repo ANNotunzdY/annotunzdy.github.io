@@ -24,12 +24,14 @@ layout: home
 - C++
 - C#
 - Objective-C
+- Objective-C++
 - Swift
 - Java
 - Kotlin
 - Ruby
 - Perl
 - PHP
+- Python
 - JavaScript
 - TypeScript
 
@@ -37,13 +39,22 @@ layout: home
 - UIKit
 - CoreData
 - Cordova
+- Core ML
+- Vision
 
 ## Android
 - Android SDK
+- Cordova
 
 ## Web
 - Ruby on Rails
 - NestJS
+
+## その他
+- Win32
+- Cocoa
+- OpenCV
+- Unity
 
 # 過去実績例
 - QRコードリーダー関連開発業務 (iOS / Objective-C)
