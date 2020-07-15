@@ -119,4 +119,3 @@ layout: home
 # 連絡先
 - Mail: dev@annotunzdy.info
 - Twitter: @ANNotunzdY2
-- Mastodon: @annotunzdy@mstdn.jp
