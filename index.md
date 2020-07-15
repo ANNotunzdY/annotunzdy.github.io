@@ -58,6 +58,7 @@ layout: home
 - MySQL
 - PostgreSQL
 - SQLite
+- DB2
 - Redis
 - Elasticsearch
 
