@@ -5,7 +5,7 @@
 layout: home
 ---
 - フリーランスエンジニア
-- iOSアプリ・Webシステム等の受託開発を行っています
+- スマートフォン向けアプリ・Webシステム等の受託開発を行っています
 
 # 略歴
 - 1991年生まれ
@@ -21,7 +21,7 @@ layout: home
 
 # 主な対応可能技術
 
-## 言語
+## Language
 - C
 - C++
 - C#
@@ -36,6 +36,7 @@ layout: home
 - Python
 - JavaScript
 - TypeScript
+- AppleScript
 
 ## iOS
 - UIKit
@@ -43,6 +44,7 @@ layout: home
 - Cordova
 - Core ML
 - Vision
+- Metal
 
 ## Android
 - Android SDK
@@ -59,12 +61,37 @@ layout: home
 - Redis
 - Elasticsearch
 
-## その他
+## OS
+- macOS
+- MS-DOS
+- Windows
+- Ubuntu
+- CentOS
+- Red Hat Enterprise Linux
+- iOS
+- iPad OS
+- watchOS
+- Android
+
+## IaaS
+- Amazon Web Services
+- Azure
+- さくらクラウド
+- CloudOcean
+
+## Other
 - Win32
 - Cocoa
 - OpenCV
+- OpenGL
 - Unity
-- RHEL
+- Docker
+- CloudFormation
+- IPv6
+- TCP / UDP
+- HTTP
+- SMTP
+- ICMP
 
 # 過去実績例
 - QRコードリーダー関連開発業務 (iOS / Objective-C)
