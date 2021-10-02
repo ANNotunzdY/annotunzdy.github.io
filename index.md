@@ -134,6 +134,10 @@ iPhone登場前からObjective-Cを扱っており、数十社のiOS向けアプ
 - 情報処理安全確保支援士（第018388号）
 - 日商簿記３級
 
+# 継続寄付活動
+- 日本赤十字社 東京都支部
+- 国境なき医師団日本
+
 # 連絡先
 - Mail: dev@annotunzdy.info
 - Twitter: @ANNotunzdY2
