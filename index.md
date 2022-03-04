@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+- 香月 貴義 (Katsuki Takayoshi)
 - アプリも書けるフリーランスインフラエンジニア / プロジェクトマネージャ
 - 株式会社パルソラ CTO
 
