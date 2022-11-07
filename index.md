@@ -113,6 +113,7 @@ iPhone登場前からObjective-Cを扱っており、数十社のiOS向けアプ
 - HTTP
 - SMTP
 - ICMP
+- TensorFlow
 
 # 過去実績例
 - QRコードリーダー関連開発業務 (iOS / Objective-C)
@@ -129,7 +130,9 @@ iPhone登場前からObjective-Cを扱っており、数十社のiOS向けアプ
 - アプリ用APIサーバー開発業務 (Ruby on Rails)
 - Mac系開発業務 (Objective-C)
 - Windows系開発業務 (.NET / C#)
-- 基幹業務系システムバックエンド開発（NestJS / TypeScript）
+- 基幹業務系システムバックエンド開発業務（NestJS / TypeScript）
+- 金融機関系アプリ関連開発業務 (iOS / Swift)
+- AI活用関連開発業務（Python / Ruby on Rails）
 
 # 取得資格
 - 基本情報技術者
@@ -139,10 +142,6 @@ iPhone登場前からObjective-Cを扱っており、数十社のiOS向けアプ
 
 # 所属団体
 - 一般社団法人 情報処理安全確保支援士会 会員
-
-# 継続寄付活動
-- 日本赤十字社 東京都支部
-- 国境なき医師団日本
 
 # 連絡先
 - Mail: dev@annotunzdy.info
