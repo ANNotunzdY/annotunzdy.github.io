@@ -9,11 +9,11 @@ layout: home
 - 株式会社パルソラ CTO
 
 # プロフィール
-iPhone登場前からObjective-Cを扱っており、数十社のiOS向けアプリケーションの開発を支援してきました。  
-また、Androidアプリの開発や、SwiftでのiOSアプリケーション開発についても実績があります。  
-サーバーサイドでは、Perl, PHP, TypeScript, Ruby on Railsなどを用いた開発を行っております。  
-また、AWS をはじめとしたサーバインフラの構築・運用ならびに、構築自動化（IaC）の支援なども行っており、現在はこちらの活動がメインとなります。  
-新型コロナウイルス感染症の拡大前は、ボランティア活動として、数百人〜数千人規模の国内技術系カンファレンスにおけるWi-Fi環境の構築支援に積極的に参加していました。
+私iPhoneが登場する前からObjective-Cを扱い、数十のiOS向けアプリケーションの開発を支援してきました。さらに、Androidアプリの開発や、Swiftを使ったiOSアプリケーション開発にも実績があります。また、サーバーサイドでは、Perl、PHP、TypeScript、Ruby on Railsなどを使用して開発を行っています。AWSをはじめとしたサーバーインフラの設計・構築の支援も行っており、現在はこちらの活動がメインとなっています。
+
+新型コロナウイルス感染症の拡大前は、数百人〜数千人規模の国内技術系カンファレンスにおけるWi-Fi環境の構築支援に積極的に参加するなど、ボランティア活動も行っていました。
+
+AWSなどのクラウドサービスの活用支援や構築自動化（IaC）、各種システム開発のマネージメントや技術顧問、スマートフォン向けアプリやWebシステムの受託開発（設計を含む）など、幅広い範囲で対応が可能です。
 
 # 対応範囲
 
@@ -42,20 +42,26 @@ iPhone登場前からObjective-Cを扱っており、数十社のiOS向けアプ
 # 主な対応可能技術
 
 ## Language
-- C
-- C++
-- C#
-- Objective-C
-- Objective-C++
-- Swift
-- Java
-- Kotlin
+
+### Web
 - Ruby
 - Perl
 - PHP
 - Python
 - JavaScript
 - TypeScript
+
+### App
+- Objective-C
+- Objective-C++
+- Swift
+- Java
+- Kotlin
+
+### その他
+- C
+- C++
+- C#
 - AppleScript
 
 ## iOS
@@ -116,23 +122,33 @@ iPhone登場前からObjective-Cを扱っており、数十社のiOS向けアプ
 - TensorFlow
 
 # 過去実績例
-- QRコードリーダー関連開発業務 (iOS / Objective-C)
-- 電子書籍ビューア関連開発業務 (iOS / Android / Objective-C / Java / C / JavaScript )
-- ペイント系ソフト関連開発業務 (iOS / Objective-C / Objective-C++ / C++ / Swift)
+## iOSアプリ関連
+- QRコードリーダー関連開発業務 (Objective-C)
+- 電子書籍ビューア関連開発業務 (Objective-C / Java / C / JavaScript )
+- ペイント系ソフト関連開発業務 (Objective-C / Objective-C++ / C++ / Swift)
+- 決済系アプリ関連開発開発業務 (Swift)
+- チャット系アプリ関連開発開発 (Objective-C / Swift)
+- 動画系アプリ関連開発業務 (Objective-C)
+- ビーコン関連開発業務 (Objective-C / Swift)
+- カメラ系アプリ関連開発業務(Swift)
+- 金融機関系アプリ関連開発業務 (Swift)
+
+## ゲーム開発関連
 - ソーシャルゲーム関連開発業務 (Unity / C#)
-- 決済系アプリ関連開発開発業務 (iOS / Swift)
-- チャット系アプリ関連開発開発 (iOS / Objective-C / Swift)
-- 動画系アプリ関連開発業務 (iOS / Objective-C)
-- ビーコン関連開発業務 (iOS / Objective-C / Swift)
-- カメラ系アプリ関連開発業務(iOS / Swift)
+
+## Web開発関連
 - ECサイト関連開発業務 (Ruby on Rails)
 - 動画系サイト関連開発業務 (Ruby on Rails)
 - アプリ用APIサーバー開発業務 (Ruby on Rails)
+
+## システム開発関連
 - Mac系開発業務 (Objective-C)
 - Windows系開発業務 (.NET / C#)
 - 基幹業務系システムバックエンド開発業務（NestJS / TypeScript）
-- 金融機関系アプリ関連開発業務 (iOS / Swift)
+
+## AI関連開発業務
 - AI活用関連開発業務（Python / Ruby on Rails）
+
 
 # 取得資格
 - 基本情報技術者
@@ -145,4 +161,4 @@ iPhone登場前からObjective-Cを扱っており、数十社のiOS向けアプ
 
 # 連絡先
 - Mail: dev@annotunzdy.info
-- Twitter: @ANNotunzdY2
+- Twitter: https://twitter.com/an0mr
