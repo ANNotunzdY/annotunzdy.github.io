@@ -9,7 +9,7 @@ layout: home
 - 株式会社パルソラ CTO
 
 # プロフィール
-私iPhoneが登場する前からObjective-Cを扱い、数十のiOS向けアプリケーションの開発を支援してきました。さらに、Androidアプリの開発や、Swiftを使ったiOSアプリケーション開発にも実績があります。また、サーバーサイドでは、Perl、PHP、TypeScript、Ruby on Railsなどを使用して開発を行っています。AWSをはじめとしたサーバーインフラの設計・構築の支援も行っており、現在はこちらの活動がメインとなっています。
+iPhoneが登場する前からObjective-Cを扱い、数十のiOS向けアプリケーションの開発を支援してきました。さらに、Androidアプリの開発や、Swiftを使ったiOSアプリケーション開発にも実績があります。また、サーバーサイドでは、Perl、PHP、TypeScript、Ruby on Railsなどを使用して開発を行っています。AWSをはじめとしたサーバーインフラの設計・構築の支援も行っており、現在はこちらの活動がメインとなっています。
 
 新型コロナウイルス感染症の拡大前は、数百人〜数千人規模の国内技術系カンファレンスにおけるWi-Fi環境の構築支援に積極的に参加するなど、ボランティア活動も行っていました。
 
@@ -162,3 +162,5 @@ AWSなどのクラウドサービスの活用支援や構築自動化（IaC）�
 # 連絡先
 - Mail: dev@annotunzdy.info
 - Twitter: https://twitter.com/an0mr
+
+(Revised with ChatGPT)
