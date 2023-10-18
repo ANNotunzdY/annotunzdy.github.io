@@ -41,9 +41,9 @@
     "libraryInitializers": null,
     "pdb": null,
     "runtime": {
-      "dotnet.6.0.23.opkeyy6x6s.js": "sha256-sbYSYaWkRPeMrp9QcR2kCpAqdfhCWr1DWe+TalCea0k=",
+      "dotnet.6.0.23.opkeyy6x6s.js": "sha256-UCzG88RiKqTthAfqeqnYACocm3EJSvO6kZEoujDsAPM=",
       "dotnet.timezones.blat": "sha256-qh8xNdaY8+YdbN6P1eOPOtA4Y7TzWTRLITe9khw1+58=",
-      "dotnet.wasm": "sha256-UPIQbuMiCFz3TYTZ9s4jhyhz2Z6fstqq86MjDCr77\/M=",
+      "dotnet.wasm": "sha256-v3ElH46xAfkNLb+SjbAiDX4BhodXKZTW9XG+tD5lGds=",
       "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
       "icudt_CJK.dat": "sha256-WPyI4hWDPnOw62Nr27FkzGjdbucZnQD+Ph+GOPhAedw=",
       "icudt_EFIGS.dat": "sha256-4RwaPx87Z4dvn77ie\/ro3\/QzyS+\/gGmO3Y\/0CSAXw4k=",
@@ -52,7 +52,7 @@
     "runtimeAssets": {
       "dotnet.wasm": {
         "behavior": "dotnetwasm",
-        "hash": "sha256-UPIQbuMiCFz3TYTZ9s4jhyhz2Z6fstqq86MjDCr77\/M="
+        "hash": "sha256-v3ElH46xAfkNLb+SjbAiDX4BhodXKZTW9XG+tD5lGds="
       }
     },
     "satelliteResources": null
